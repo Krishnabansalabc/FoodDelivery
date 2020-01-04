@@ -1,5 +1,5 @@
 # FoodDelivery
-It is a Competative Project.In this, I predicted the time taken by a delivery boy to deliver a food item.I am also going to do a step-by-step approach of dealing with untidy dataset and preparing it for the ultimate aim of model building.
+It is a Competitive Project.In this, I predicted the time taken by a delivery boy to deliver a food item. I am also going to do a step-by-step approach of dealing with the untidy dataset and preparing it for the ultimate aim of model building.
 <h2>Tools used:</h2>
 
     R – 3.6.0
@@ -25,4 +25,4 @@ Dataset: https://www.machinehack.com/wp-content/uploads/2019/11/Participants-Dat
     Random Forest Regression
     Decision tree
     Artificial Neural Network
-<h3>Best regression model in this case comes out to be Decision Tree with 77.11% accuracy.</h3>
+<h3>The best regression model ,in this case, comes out to be Decision Tree with 77.11% accuracy.</h3>
